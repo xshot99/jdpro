@@ -123,3 +123,9 @@ ql repo https://github.com/smiek2121/scripts.git "jd_|gua_" "" "ZooFaker_Necklac
 |   `OpenCard`           |     开卡有礼     | 非必须 | 默认为false不执行，设置True执行，门槛默认是5豆以上才开卡 |
 
 
+123
+
+
+
+
+
